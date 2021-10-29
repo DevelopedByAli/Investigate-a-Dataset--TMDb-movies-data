@@ -1,5 +1,5 @@
 # Investigate-a-Dataset--TMDb-movies-data
-<p align="center"><img src="pexels.jpg"></p>
+<p align="center"><img src="film.png"></p>
 
 ----
 
